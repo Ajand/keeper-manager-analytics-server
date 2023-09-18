@@ -1,0 +1,13 @@
+{
+  "name": "analytics-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ajand Mardalizad",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "5",
+    "geb.js": "^1.1.40",
+    "redis": "^4.6.10"
+  }
+}
